@@ -1,4 +1,0 @@
-[submodule "extern/cmake-scripts"]
-	path = extern/cmake-scripts
-	url = https://github.com/HuxyUK/cmake-scripts
-	branch = main
